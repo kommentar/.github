@@ -6,7 +6,7 @@
 
 <h2>Learn About Kommentar</h2>
 <ul>
-    <li>Learn how to work with Kommentar through the <a href="https://kommentar.dev/docs">Kommentar Docs</a> 📚 </li>
+    <li>Learn how to work with Kommentar through the <a href="https://docs.kommentar.dev">Kommentar Docs</a> 📚 </li>
 </ul>
 
 <h2>Connect</h2>
